@@ -1,0 +1,450 @@
+==> Loading checkpoint...
+[0;33mload data from C:\Users\davy3\PycharmProjects\ServerInAi\test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+./experiments\UNet_vessel_seg\result_imgResult_im0235.png
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+./experiments\UNet_vessel_seg\result_img/Result_Camille_0.png/n
+Éè±¸('127.0.0.1', 56516)¶Ï¿ªÁ¬½Ó...
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+C:\Users\davy3\crm_vue1\MLapi/experiments/UNet_vessel_seg/result_img/Result_b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.png
+
+Éè±¸('127.0.0.1', 57916)¶Ï¿ªÁ¬½Ó...
+Éè±¸('127.0.0.1', 58138)ÒÑÁ¬½Ó
+C:/Users/davy3/crm_vue1/springboot/springboot/src/main/resources/files/b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.jpg
+processed is done, now segmentation is on 
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+Éè±¸('127.0.0.1', 58143)ÒÑÁ¬½Ó
+C:/Users/davy3/crm_vue1/springboot/springboot/src/main/resources/files/b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.jpg
+processed is done, now segmentation is on 
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+C:\Users\davy3\crm_vue1\MLapi/experiments/UNet_vessel_seg/result_img/Result_b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.png
+
+Éè±¸('127.0.0.1', 58138)¶Ï¿ªÁ¬½Ó...
+There are 1 images in Testset
+None
+C:\Users\davy3\crm_vue1\MLapi/experiments/UNet_vessel_seg/result_img/Result_b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.png
+
+Éè±¸('127.0.0.1', 58143)¶Ï¿ªÁ¬½Ó...
+Éè±¸('127.0.0.1', 58320)ÒÑÁ¬½Ó
+C:/Users/davy3/crm_vue1/springboot/springboot/src/main/resources/files/b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.jpg
+processed is done, now segmentation is on 
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+C:\Users\davy3\crm_vue1\MLapi/experiments/UNet_vessel_seg/result_img/Result_b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.png
+
+Éè±¸('127.0.0.1', 58320)¶Ï¿ªÁ¬½Ó...
+Éè±¸('127.0.0.1', 58421)ÒÑÁ¬½Ó
+C:/Users/davy3/crm_vue1/springboot/springboot/src/main/resources/files/b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.jpg
+processed is done, now segmentation is on 
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+C:\Users\davy3\crm_vue1\MLapi/experiments/UNet_vessel_seg/result_img/Result_b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.png
+
+Éè±¸('127.0.0.1', 58421)¶Ï¿ªÁ¬½Ó...
+Éè±¸('127.0.0.1', 59148)ÒÑÁ¬½Ó
+C:/Users/davy3/crm_vue1/springboot/springboot/src/main/resources/files/b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.jpg
+processed is done, now segmentation is on 
+==> Loading checkpoint...
+[0;33mload data from ./test.txt [0m
+ori data shape < ori_imgs:(1, 3, 605, 700) GTs:(1, 1, 605, 700) FOVs:(1, 1, 605, 700)
+imgs pixel range 0-255: 
+GTs pixel range 0-255: 
+FOVs pixel range 0-255: 
+==================data have loaded======================
+
+the side H is not compatible with the selected stride of 16
+(img_h - patch_h) MOD stride_h: 13
+So the H dim will be padded with additional 3 pixels
+the side W is not compatible with the selected stride of 16
+(img_w - patch_w) MOD stride_w: 12
+So the W dim will be padded with additional 4 pixels
+new padded images shape: (1, 1, 608, 704)
+
+Test images shape: (1, 1, 608, 704), vaule range (0.0 - 1.0):
+Number of patches on h : 35
+Number of patches on w : 41
+number of patches per image: 1435, totally for testset: 1435
+test patches shape: (1435, 1, 64, 64), value range (0.0 - 1.0)
+There are 1 images in Testset
+None
+C:\Users\davy3\crm_vue1\MLapi/experiments/UNet_vessel_seg/result_img/Result_b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.png
+
+Éè±¸('127.0.0.1', 59148)¶Ï¿ªÁ¬½Ó...
+Éè±¸('127.0.0.1', 59245)ÒÑÁ¬½Ó
+C:/Users/davy3/crm_vue1/springboot/springboot/src/main/resources/files/b36d186e70034625a40961ecc2541066_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.jpg
+processed is done, now segmentation is on 
+==> Loading checkpoint...

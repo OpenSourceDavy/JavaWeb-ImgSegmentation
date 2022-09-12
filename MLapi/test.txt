@@ -1,0 +1,1 @@
+C:/Users/davy3/crm_vue1/springboot/springboot/src/main/resources/files/39e49eca802e400dafcf900ac2f9fa0d_GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.ppm C:\Users\davy3\crm_vue1\MLapi\STARE\1st_labels_ah\666.ppm C:\Users\davy3\crm_vue1\MLapi\STARE\mask\mask_0001.png 
