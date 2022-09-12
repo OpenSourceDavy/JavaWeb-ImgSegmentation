@@ -6,7 +6,9 @@ Introducing **Active Appearance Models**, **Atrous Spatial Pyramid Pooling** and
 
 Two kinds of models can be used for diagnosing, UNet-based model provides precise and accurate results, meanwhile the LadderNet model provides fast results.
 
-Model traing part is not uploaded
+Model traing part is not uploaded.
+
+Please note that current version is loaded on localhost, editions are required to deploy to server(懒得弄了）
 
 
 ## Examples
