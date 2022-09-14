@@ -10,7 +10,7 @@ Two kinds of models can be used for diagnosing, UNet-based model provides precis
 
 Model traing part is not uploaded.
 
-Please note that current version is loaded on localhost, editions are required to deploy to server(懒得弄了）
+Please note that current version is loaded on localhost, editions are required to deploy to server(because of time costs）
 
 
 ## Examples
